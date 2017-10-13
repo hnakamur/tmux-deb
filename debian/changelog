@@ -1,3 +1,9 @@
+tmux (2.6-1hnakamur1) xenial; urgency=medium
+
+  * New upstream release
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Fri, 13 Oct 2017 22:49:48 +0900
+
 tmux (2.5-3hnakamur3) xenial; urgency=medium
 
   * Backport to xenial.
